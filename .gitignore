@@ -1,0 +1,9 @@
+.idea
+Build
+cmake
+cmake-build-debug
+null
+.clangd
+compile_commands.json
+*.cap
+
